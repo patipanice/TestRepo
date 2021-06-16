@@ -9,3 +9,4 @@ This is the second commit on feature login branch
 This is register feature add text
 
 This is test commit on origin
+This is register feature add text Test text
